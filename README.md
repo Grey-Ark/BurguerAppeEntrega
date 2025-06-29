@@ -1,17 +1,14 @@
 # Burger-Queen
 Requisitos previos
 Node.js (v18+ recomendado)
-
 npm (v9+ recomendado)
-
 Ionic CLI
-
 VS Code
 
 Instalación y ejecución
 Clonar el repositorio
 
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/Grey-Ark/BurguerAppeEntrega.git
 cd tu-repo
 
 Instalar dependencias
